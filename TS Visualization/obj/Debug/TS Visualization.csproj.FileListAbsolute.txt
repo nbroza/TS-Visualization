@@ -1,0 +1,12 @@
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\Debug\TS Visualization.exe.config
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\Debug\TS Visualization.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\Debug\TS Visualization.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS Visualization.csprojAssemblyReference.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS_Visualization.Form1.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS_Visualization.Properties.Resources.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS Visualization.csproj.GenerateResource.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS Visualization.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS Visualization.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS Visualization.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\Debug\TS Visualization.csproj.CopyComplete

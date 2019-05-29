@@ -1,0 +1,30 @@
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\x64\Debug\TS Visualization.exe.config
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\x64\Debug\TS Visualization.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\x64\Debug\TS Visualization.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\bin\x64\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\x64\Debug\TS_Visualization.Form1.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\x64\Debug\TS_Visualization.Properties.Resources.resources
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\x64\Debug\TS Visualization.csproj.GenerateResource.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\x64\Debug\TS Visualization.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\x64\Debug\TS Visualization.csproj.CopyComplete
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\x64\Debug\TS Visualization.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\TS Visualization\obj\x64\Debug\TS Visualization.pdb
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS Visualization.csprojAssemblyReference.cache
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS_Visualization.Form1.resources
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS_Visualization.Properties.Resources.resources
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS Visualization.csproj.GenerateResource.cache
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS Visualization.csproj.CoreCompileInputs.cache
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS Visualization.exe
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS Visualization.pdb
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\TS Visualization.exe.config
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\TS Visualization.exe
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\TS Visualization.pdb
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Bunifu_UI_v1.5.3.dll
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Loyc.Collections.dll
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Loyc.Essentials.dll
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Loyc.Syntax.dll
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Loyc.Collections.xml
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Loyc.Essentials.xml
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Loyc.Essentials.dll.config
+D:\TS Visualization\TS Visualization\TS Visualization\bin\x64\Debug\Loyc.Syntax.xml
+D:\TS Visualization\TS Visualization\TS Visualization\obj\x64\Debug\TS Visualization.csproj.CopyComplete
